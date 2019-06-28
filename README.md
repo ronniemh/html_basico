@@ -1,4 +1,4 @@
-# html_basico
+# HTML Básico
 Ronnie Moncayo
 
 Proyecto de Desarrollo Web Básico
