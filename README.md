@@ -1,4 +1,4 @@
 # html_basico
-##Ronnie Moncayo
-##Carpetas de Universidad
+Ronnie Moncayo
 Proyecto de Desarrollo Web Básico
+**Carpetas de la Universidad**
